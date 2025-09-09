@@ -1,3 +1,5 @@
+# Renombrar archivos de log en una carpeta con un nombre base y un contador secuencial
+
 import os
 
 # Asegurarse que la carpeta logs existe
